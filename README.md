@@ -1,0 +1,2 @@
+# TELKOM-LSM
+Project Magang
